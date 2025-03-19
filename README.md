@@ -1,6 +1,6 @@
 # **Auto Abliteration**
 
-https://github.com/user-attachments/assets/005f9723-0fa7-497b-803c-29901e8c68ca
+https://github.com/user-attachments/assets/cd182313-dcb4-4d72-aee7-c324aca10091
 
 Auto Abliteration is a Streamlit-based application that enables you to modify a language model’s behavior by "abliterating" its weights. This tool is especially recommended for edge-device LLMs (e.g., 0.5B, 1B, 1.5B models). By orthogonalizing key model weights along a computed refusal direction, Auto Abliteration can subtly alter the model’s responses.
 
